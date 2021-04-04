@@ -1,4 +1,4 @@
-import HeaderStyled from "../styled/HeaderStyle";
+import HeaderStyled from "./styled/HeaderStyle";
 import NavLink from "./styled/NavLink";
 import BrandLogo from "./styled/BrandLogo"
 import SearchBar from "./styled/SearchBar";
